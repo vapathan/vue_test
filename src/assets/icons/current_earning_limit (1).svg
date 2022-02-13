@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="176" height="74" viewBox="0 0 176 74">
+  <defs>
+    <filter id="Rectangle_3092" x="153" y="0" width="23" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#29c790" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3091" x="128" y="0" width="23" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#29c790" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3090" x="102" y="0" width="23" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#29c790" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3088" x="77" y="0" width="23" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#29c790" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3086" x="51" y="0" width="23" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#29c790" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3089" x="26" y="0" width="23" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#29c790" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3087" x="0" y="0" width="23" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-color="#29c790" flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="current_earning_limit" transform="translate(-1650 -252)">
+    <g id="Group_9472" data-name="Group 9472" transform="translate(0 1)">
+      <g transform="matrix(1, 0, 0, 1, 1650, 251)" filter="url(#Rectangle_3092)">
+        <rect id="Rectangle_3092-2" data-name="Rectangle 3092" width="5" height="56" rx="2.5" transform="translate(162 6)" fill="#29c891"/>
+      </g>
+      <g id="Ellipse_1303" data-name="Ellipse 1303" transform="translate(1809 267)" fill="#d2fff0" stroke="#29c690" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_9471" data-name="Group 9471" transform="translate(1 1)">
+      <g transform="matrix(1, 0, 0, 1, 1649, 251)" filter="url(#Rectangle_3091)">
+        <rect id="Rectangle_3091-2" data-name="Rectangle 3091" width="5" height="56" rx="2.5" transform="translate(137 6)" fill="#29c891"/>
+      </g>
+      <g id="Ellipse_1304" data-name="Ellipse 1304" transform="translate(1783 289)" fill="#d2fff0" stroke="#29c690" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_9470" data-name="Group 9470" transform="translate(0 1)">
+      <g transform="matrix(1, 0, 0, 1, 1650, 251)" filter="url(#Rectangle_3090)">
+        <rect id="Rectangle_3090-2" data-name="Rectangle 3090" width="5" height="56" rx="2.5" transform="translate(111 6)" fill="#29c891"/>
+      </g>
+      <g id="Ellipse_1305" data-name="Ellipse 1305" transform="translate(1758 265)" fill="#d2fff0" stroke="#29c690" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_9469" data-name="Group 9469" transform="translate(2 1)">
+      <g transform="matrix(1, 0, 0, 1, 1648, 251)" filter="url(#Rectangle_3088)">
+        <rect id="Rectangle_3088-2" data-name="Rectangle 3088" width="5" height="56" rx="2.5" transform="translate(86 6)" fill="#29c891"/>
+      </g>
+      <g id="Ellipse_1306" data-name="Ellipse 1306" transform="translate(1731 295)" fill="#d2fff0" stroke="#29c690" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_9468" data-name="Group 9468" transform="translate(1 1)">
+      <g transform="matrix(1, 0, 0, 1, 1649, 251)" filter="url(#Rectangle_3086)">
+        <rect id="Rectangle_3086-2" data-name="Rectangle 3086" width="5" height="56" rx="2.5" transform="translate(60 6)" fill="#29c891"/>
+      </g>
+      <g id="Ellipse_1307" data-name="Ellipse 1307" transform="translate(1706 267)" fill="#d2fff0" stroke="#29c690" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_9466" data-name="Group 9466" transform="translate(1 1)">
+      <g transform="matrix(1, 0, 0, 1, 1649, 251)" filter="url(#Rectangle_3089)">
+        <rect id="Rectangle_3089-2" data-name="Rectangle 3089" width="5" height="56" rx="2.5" transform="translate(35 6)" fill="#29c891"/>
+      </g>
+      <g id="Ellipse_1308" data-name="Ellipse 1308" transform="translate(1681 292)" fill="#d2fff0" stroke="#29c891" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_9467" data-name="Group 9467" transform="translate(0 1)">
+      <g transform="matrix(1, 0, 0, 1, 1650, 251)" filter="url(#Rectangle_3087)">
+        <rect id="Rectangle_3087-2" data-name="Rectangle 3087" width="5" height="56" rx="2.5" transform="translate(9 6)" fill="#29c891"/>
+      </g>
+      <g id="Ellipse_1309" data-name="Ellipse 1309" transform="translate(1656 281)" fill="#d2fff0" stroke="#29c690" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

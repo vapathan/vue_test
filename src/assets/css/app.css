@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.retopup-reminder-container {
+    background: transparent linear-gradient(180deg, #4D24F3 0%, #7F08F6 100%) 0% 0% no-repeat padding-box;
+    box-shadow: inset -8px -8px 16px #551FF3;
+    opacity: 1;
+}
+.gradient-btn{
+    background: transparent linear-gradient(102deg, #73BBEA 0%, #5654E6 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 8px 8px 16px #211F8F33;
+    border-radius: 19px;
+    opacity: 1;
+    text-align: center;
+
+}
