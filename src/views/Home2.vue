@@ -65,17 +65,15 @@
       </div>
     </div>
     <div class="flex justify-evenly mt-14">
-      <div class="flex flex-row gap-8">
-        <img src="src/assets/icons/green.svg" alt="" class="w-28 h-28">
-        <img src="src/assets/icons/purple.svg" alt="" class="w-28 h-28">
-        <img src="src/assets/icons/orange.svg" alt="" class="w-28 h-28">
-        <img src="src/assets/icons/Path 64234.svg" alt="" class="w-28 h-28">
+      <div class="flex flex-row gap-4">
+        <template v-for="user in userName">
+          <user-name :user="user"></user-name>
+        </template>
       </div>
-      <div class="flex flex-row gap-8">
-        <img src="src/assets/icons/green.svg" alt="" class="w-28 h-28">
-        <img src="src/assets/icons/purple.svg" alt="" class="w-28 h-28">
-        <img src="src/assets/icons/orange.svg" alt="" class="w-28 h-28">
-        <img src="src/assets/icons/Path 64234.svg" alt="" class="w-28 h-28">
+      <div class="flex flex-row gap-4">
+        <template v-for="user in userName">
+          <user-name :user="user"></user-name>
+        </template>
       </div>
     </div>
   </div>
@@ -83,15 +81,31 @@
 
 <script>
 import TabList from "@/components/TabList.vue";
+import UserName from '@/components/userName.vue'
 
 export default {
   name: 'Home2',
   components: {
-    TabList
+    TabList, UserName
   },
   data() {
     return {
-      slug: ['Tree', 'Left Structure', 'Right Structure', 'Direct referrals']
+      slug: ['Tree', 'Left Structure', 'Right Structure', 'Direct referrals'],
+      userName: [
+        {
+          img: 'http://placehold.jp/30x30.png',
+          name: 'Lexy Rose',
+        }, {
+          img: 'http://placehold.jp/30x30.png',
+          name: 'Lexy Rose',
+        }, {
+          img: 'http://placehold.jp/30x30.png',
+          name: 'Lexy Rose',
+        }, {
+          img: 'http://placehold.jp/30x30.png',
+          name: 'Lexy Rose',
+        },
+      ]
     }
   },
 }
