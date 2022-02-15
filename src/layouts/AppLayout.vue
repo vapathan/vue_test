@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto p-5 bg-blue-200">
+  <div class="container-fluid mx-auto p-5 bg-blue-200">
     <div class="flex gap-4">
       <sidebar></sidebar>
       <div class="container w-full -h-full rounded-xl p-5 bg-blue-100">

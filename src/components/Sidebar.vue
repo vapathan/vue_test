@@ -1,7 +1,7 @@
 <template>
   <aside class="w-48 h-screen rounded-xl shadow-lg bg-blue-50" aria-label="Sidebar">
     <div class="flex px-3 py-4">
-      <img src="" alt="Logo">
+      <img src="src/assets/logo.png" alt="Logo" class="w-12 h-12 mr-3">
       <div class="flex flex-col">
       <h5 class="font-bold">Demo</h5>
         <p class="">Panel 05</p>

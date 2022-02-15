@@ -1,4 +1,14 @@
 <template>
+  <div class="flex flex-row-reverse pt-2 pb-4">
+    <div class="">
+      <router-link to="/home"
+                   class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+        Next Page <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-2 mt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+      </svg>
+      </router-link>
+    </div>
+  </div>
   <div class="space-y-8">
     <section class="grid grid-cols sm:grid-cols-2 lg:grid-cols-4 gap-4">
       <small-card-group></small-card-group>
@@ -49,6 +59,7 @@ import RetopupReminder from '@/components/RetopupReminder.vue'
 import SmallCard from '@/components/SmallCard.vue'
 import GradButton from "@/components/GradButton.vue";
 import SmallButton from "@/components/SmallButton.vue"
+
 export default {
   name: 'Home',
   data() {
@@ -72,7 +83,7 @@ export default {
     SmallCardGroup,
     RetopupReminder,
     SmallCard,
-    GradButton,SmallButton
+    GradButton, SmallButton
   },
 }
 </script>

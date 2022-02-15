@@ -1,0 +1,44 @@
+<svg id="Group_11157" data-name="Group 11157" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="252.306" height="252.306" viewBox="0 0 252.306 252.306">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.485" cy="0.479" r="0.545" gradientUnits="objectBoundingBox">
+      <stop offset="0.634" stop-color="#fff"/>
+      <stop offset="0.765" stop-color="#fdfdfd"/>
+      <stop offset="0.816" stop-color="#f6f6f6"/>
+      <stop offset="0.853" stop-color="#eae9ea"/>
+      <stop offset="0.883" stop-color="#d9d8d8"/>
+      <stop offset="0.91" stop-color="#c3c2c2"/>
+      <stop offset="0.933" stop-color="#a7a6a6"/>
+      <stop offset="0.955" stop-color="#878585"/>
+      <stop offset="0.974" stop-color="#615e5f"/>
+      <stop offset="0.992" stop-color="#383435"/>
+      <stop offset="1" stop-color="#231f20"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#abd64d"/>
+      <stop offset="1" stop-color="#6bad40"/>
+    </linearGradient>
+    <filter id="Union_4" x="19.441" y="18.442" width="225.423" height="225.421" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#c1c1c1" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_1335" x="25.84" y="23.678" width="213.569" height="213.569" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-2"/>
+      <feFlood flood-color="#c1c1c1" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Path_64257" data-name="Path 64257" d="M126.153,0A126.153,126.153,0,1,1,0,126.153,126.153,126.153,0,0,1,126.153,0Z" opacity="0.39" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+  <g id="Group_11096" data-name="Group 11096" transform="translate(25.941 25.942)">
+    <g transform="matrix(1, 0, 0, 1, -25.94, -25.94)" filter="url(#Union_4)">
+      <path id="Union_4-2" data-name="Union 4" d="M100.212,200.421h0A100.232,100.232,0,0,1,13.414,50.1l4.7,2.714a94.784,94.784,0,1,0,164.194,0l4.7-2.714a100.211,100.211,0,0,1-86.8,150.323h0Zm0-195a94.742,94.742,0,0,0-82.1,47.386l-4.7-2.714A100.166,100.166,0,0,1,100.212,0h0a100.166,100.166,0,0,1,86.8,50.1l-4.7,2.714A94.744,94.744,0,0,0,100.212,5.426Z" transform="translate(25.94 25.94)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -25.94, -25.94)" filter="url(#Ellipse_1335)">
+      <circle id="Ellipse_1335-2" data-name="Ellipse 1335" cx="94.785" cy="94.785" r="94.785" transform="translate(31.84 30.68)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

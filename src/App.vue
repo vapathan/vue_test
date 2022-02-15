@@ -1,7 +1,7 @@
 <template>
   <app-layout>
     <template #main>
-      <Home/>
+      <router-view></router-view>
     </template>
   </app-layout>
 </template>
